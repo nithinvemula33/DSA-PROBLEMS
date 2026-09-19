@@ -1,6 +1,6 @@
 class Solution {
     public List<String> buildArray(int[] t, int n) {
-        List<String> al=new ArrayList<>();
+        List<String> al=new Stack<>();
         int m=t.length;
         int i=0,j=1;
         while(i<m&&j<=n)
