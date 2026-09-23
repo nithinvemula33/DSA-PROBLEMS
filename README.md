@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
