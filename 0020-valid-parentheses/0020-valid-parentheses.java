@@ -2,7 +2,6 @@ class Solution {
     public boolean isValid(String s) {
        Stack<Character> st=new Stack<>();
        int n=s.length();
-       int c=0;
         if(n%2!=0) return false;
        for(int i=0;i<n;i++)
        {
