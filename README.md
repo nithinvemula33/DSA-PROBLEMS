@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
