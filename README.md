@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
