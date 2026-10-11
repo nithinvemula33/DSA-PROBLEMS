@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sliding Window
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
