@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
+| [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
