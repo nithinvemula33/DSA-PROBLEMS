@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sliding Window
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
