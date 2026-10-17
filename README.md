@@ -142,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
