@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
