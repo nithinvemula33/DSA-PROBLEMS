@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
