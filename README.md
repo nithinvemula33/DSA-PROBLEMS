@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
