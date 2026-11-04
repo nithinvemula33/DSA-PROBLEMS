@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
