@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0058-length-of-last-word) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
