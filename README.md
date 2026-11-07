@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
