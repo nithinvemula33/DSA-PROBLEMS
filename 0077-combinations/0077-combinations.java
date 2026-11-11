@@ -10,11 +10,8 @@ class Solution {
             }
             return;
         }
-        // if(i<n)
-        {
-            lt.add(arr[i]);
-            com(arr,i+1,n,k,lt);
-        }
+        lt.add(arr[i]);
+        com(arr,i+1,n,k,lt);
         lt.remove(lt.size()-1);
         com(arr,i+1,n,k,lt);
     }
