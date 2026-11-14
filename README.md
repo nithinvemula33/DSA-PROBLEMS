@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Manacher
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0733-flood-fill) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3898-find-the-degree-of-each-vertex) |
