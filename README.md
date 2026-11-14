@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0682-baseball-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
@@ -299,8 +301,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0078-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
