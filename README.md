@@ -314,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
