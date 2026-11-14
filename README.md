@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sliding Window
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
@@ -321,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
