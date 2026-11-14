@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -317,5 +319,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
