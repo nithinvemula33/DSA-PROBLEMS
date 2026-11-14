@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/3898-find-the-degree-of-each-vertex) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
