@@ -8,7 +8,7 @@ class Solution {
         {
             if(m[i][j]==1)
             {
-                if(i-1<0||j-1<0)continue;
+                //if(i-1<0||j-1<0)continue;
                 m[i][j]+=Math.min(m[i-1][j],Math.min(m[i-1][j-1],m[i][j-1]));
             }
         }
