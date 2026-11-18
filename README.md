@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
+| [1219-path-with-maximum-gold](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0733-flood-fill) |
+| [1219-path-with-maximum-gold](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
