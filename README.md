@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [0997-find-the-town-judge](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0997-find-the-town-judge) |
+| [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Counting
@@ -344,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
