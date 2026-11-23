@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
