@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nithinvemula33/DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
